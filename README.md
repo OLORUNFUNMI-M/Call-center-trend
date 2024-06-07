@@ -1,4 +1,5 @@
-# About the project : This project was a task assigned during my Pwc job stimulation program.
+# About the project 
+This project was a task assigned during my Pwc job stimulation program.
 The call center manager needed a dashboard that will be used for discussion with the management. The dashboard should help understand customer and agent behavior by providing transparency and insights of the call center dataset.
 
 
@@ -7,7 +8,6 @@ To get an accurate overview of customer and agent behavior
 
 
 # Process of analysis 
-
 
 - The dataset was loaded into powerBi
 - The data was checked for inconsistencies (missing vaules, misspelt words and incorrect data type)
