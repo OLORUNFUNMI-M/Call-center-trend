@@ -3,7 +3,7 @@ This project was a task assigned during my Pwc job stimulation program.
 The call center manager needed a dashboard that will be used for discussion with the management. The dashboard should help understand customer and agent behavior by providing transparency and insights of the call center dataset.
 
 
-# Objectives of the analysis
+# Objective of the analysis
 To get an accurate overview of customer and agent behavior 
 
 
