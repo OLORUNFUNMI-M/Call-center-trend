@@ -1,11 +1,12 @@
-# About project : This project was a task assigned during my Pwc job stimulation program.
+# About the project : This project was a task assigned during my Pwc job stimulation program.
 The call center manager needed a dashboard that will be used for discussion with the management. The dashboard should help understand customer and agent behavior by providing transparency and insights of the call center dataset.
 
 
-Objectives of the analysis: To get an accurate overview of customer and agent behavior 
+# Objectives of the analysis
+To get an accurate overview of customer and agent behavior 
 
 
-Process of analysis : 
+# Process of analysis 
 
 
 - The dataset was loaded into powerBi
@@ -23,7 +24,7 @@ Key performance Indicators of Customer and agent behavior
 - Agent’s performance quadrant -> Answered calls ( Resolved vs unresolved)
 
 
-Deliverables:
+# Deliverables
 
 - A dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset
 - Documentation of the process
